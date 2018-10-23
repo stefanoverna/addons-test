@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "netlify-cli": "^2.1.1"
-  }
+  "dependencies": {},
+  "scripts": {
+    "build": "echo 1"
+  },
+  "repository": "git@github.com:stefanoverna/addons-test.git",
+  "author": "Stefano Verna <s.verna@cantierecreativo.net>"
 }
